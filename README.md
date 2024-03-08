@@ -17,7 +17,7 @@ Methods Implemented
 
 #How to use
 1. clone the repo
-git clone https://github.com/your-username/supervised-binary-classification.git
+git clone https://github.com/****/supervised-binary-classification.git
 
 2.Results
 
